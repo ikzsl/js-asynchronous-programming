@@ -1,4 +1,4 @@
-Курс(https://ru.hexlet.io/courses/js-asynchronous-programming)
+Курсhttps://ru.hexlet.io/courses/js-asynchronous-programming
 -----------------------------------
 
 JS: Асинхронное программирование
